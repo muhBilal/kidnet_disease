@@ -1,1 +1,1 @@
-# kidnet_disease
+# kidney_disease
